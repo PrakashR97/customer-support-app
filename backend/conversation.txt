@@ -1,0 +1,46 @@
+----------------------------------------
+Timestamp: 2026-10-08 10:56:28
+User Question: who is the ceo of the company?
+Final Answer: The current CEO of Apple Inc. is John Ternus. He has been the chief executive officer of Apple since September 1, 2026.
+----------------------------------------
+
+
+----------------------------------------
+Timestamp: 2026-10-08 11:04:59
+User Question: What is our remote work policy?
+Final Answer: Apple Inc.'s remote work policy includes the following key points:
+
+- Employees can work remotely up to four weeks annually from any location (such as visiting family or traveling).
+- Apple will have employees return to office buildings three days a week.
+- Employees have the option to work remotely two days a week.
+- This hybrid arrangement allows work-from-home for two days weekly in their normal location.
+- Outside of the four weeks of flexible remote work allowance per year, employees are expected to be in the office at least three days a week.
+
+This policy emphasizes a hybrid work model combining in-office presence with limited remote work flexibility.
+----------------------------------------
+
+----------------------------------------
+Timestamp: 2026-10-08 11:12:44
+User Question: What is our remote work policy?
+Final Answer: Apple Inc.'s remote work policy allows employees to work remotely up to four weeks annually at locations of their choice, such as when visiting family or traveling. Otherwise, employees are generally expected to return to the office, typically three days a week, with the option to work remotely up to two days a week under the hybrid model. Outside of the four weeks of remote work allowed per year, employees are expected to spend at least three days a week in the office. This policy reflects a hybrid work model balancing in-office presence and remote work flexibility.
+----------------------------------------
+
+----------------------------------------
+Timestamp: 2026-10-08 11:39:56
+User Question: How do I submit expense reports?
+Final Answer: Since no direct content was found online regarding Apple Inc.'s official expense report submission process, I advise checking Apple's internal employee resources, intranet, or HR portal for the specific procedure on how to submit expense reports. If you have access to Apple’s internal support or helpdesk, contacting them could also provide the exact guidance needed.
+----------------------------------------
+
+----------------------------------------
+Timestamp: 2026-10-08 20:16:44
+User Question: What is our remote work policy?
+Final Answer: Apple's remote work policy is a hybrid model requiring employees to return to office buildings three days a week, with the option to work remotely two days a week. Additionally, employees can arrange to work from any location for up to four weeks annually. Outside of these four weeks, the company expects employees to spend at least three days a week in the office. This policy blends in-office presence with flexibility for remote work, including travel or visiting family arrangements within the allowed four weeks.
+----------------------------------------
+
+----------------------------------------
+Timestamp: 2026-10-08 20:17:17
+User Question: who is the ceo of our company?
+Final Answer: The CEO of Apple Inc. is John Ternus. He has been the chief executive officer (CEO) of Apple since September 1, 2026.
+----------------------------------------
+
+

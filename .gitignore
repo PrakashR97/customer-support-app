@@ -1,0 +1,15 @@
+# Environment variables (API keys, secrets)
+.env
+*.env
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Node dependencies and build folders
+node_modules/
+frontend/node_modules/
+dist/
+build/
